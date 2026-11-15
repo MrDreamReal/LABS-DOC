@@ -1,0 +1,7 @@
+ioc,type,timeliness,relevancy,accuracy,overall_confidence
+45.77.11.23,ip,high,high,high,high
+evil-domain.com,domain,moderate,high,moderate,moderate
+c1e13f3d5e7b8a3459...,hash,low,low,low,low
+apt-dropper.com,domain,high,high,moderate,high
+192.168.10.25,ip,moderate,low,moderate,moderate
+
